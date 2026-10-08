@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Football Boots",
+    "slug": "football-boots",
+    "badge": "Trending #1",
+    "description": "Elite FG/AG studs, dynamic volt acceleration & textured speed weave.",
+    "icon": "futbol",
+    "count": 24,
+    "image": "assets/images/hero_boot.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cricket Bats & Gear",
+    "slug": "cricket-bats",
+    "badge": "Grade 1+ Willow",
+    "description": "Mastercrafted English Willow, massive 40mm power contours & carbon canes.",
+    "icon": "baseball-bat-ball",
+    "count": 18,
+    "image": "assets/images/hero_bat.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Smart Sports Gadgets",
+    "slug": "sports-gadgets",
+    "badge": "Next-Gen AI",
+    "description": "Real-time GPS telemetry pods, impact radars & smart biometric wearables.",
+    "icon": "microchip",
+    "count": 32,
+    "image": "assets/images/hero_gadget.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Performance Gear",
+    "slug": "performance-gear",
+    "badge": "High Output",
+    "description": "Graduated compression tights, agility speed matrices and match recovery gear.",
+    "icon": "dumbbell",
+    "count": 45,
+    "image": "assets/images/hero_boot.jpg"
+  }
+]

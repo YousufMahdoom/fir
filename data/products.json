@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "category_name": "Football Boots",
+    "name": "FIR Aurora Fusion Pro Elite Boot",
+    "slug": "fir-aurora-fusion-pro-boot",
+    "tag": "NEW RELEASE",
+    "price": 279.99,
+    "original_price": 329.99,
+    "rating": 5.0,
+    "reviews_count": 84,
+    "image": "assets/images/hero_boot.jpg",
+    "short_desc": "Dual-density carbon fiber speed frame, dynamic volt stud propulsion & ACC tactile strike zone.",
+    "description": "The FIR Aurora Fusion Pro is engineered for relentless wingers and playmakers. Featuring an ultra-lightweight carbon fiber chassis, dynamic ankle collar, and biometric chevron studs that bite into the pitch for instantaneous directional shifts.",
+    "specs": {
+      "Weight": "178 Grams",
+      "Upper": "Dynamic Knit + ACC Tactile Matrix",
+      "Outsole": "Full-Length 3K Carbon Spine",
+      "Ground": "Firm Ground / Modern 4G Artificial Turf",
+      "Grip Tech": "Nano-Textured Strike Pad"
+    },
+    "variants": [
+      "US 8 / EU 41",
+      "US 9 / EU 42.5",
+      "US 10 / EU 44",
+      "US 11 / EU 45",
+      "US 12 / EU 46"
+    ],
+    "is_featured": 1,
+    "is_trending": 1,
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "category_id": 2,
+    "category_name": "Cricket Bats & Gear",
+    "name": "FIR Verve Kookaburra Edition English Willow",
+    "slug": "fir-verve-kookaburra-edition-bat",
+    "tag": "PRO GRADE 1+",
+    "price": 449.00,
+    "original_price": 520.00,
+    "rating": 4.9,
+    "reviews_count": 62,
+    "image": "assets/images/hero_bat.jpg",
+    "short_desc": "Selected unbleached English Willow with massive 41mm power edges and holographic laser decals.",
+    "description": "Hand-pressed and sculpted for explosive power hitters. The FIR Verve delivers exceptional rebound coefficient with a mid-to-low sweet spot engineered for white ball and red ball dominance. Includes premium carbon grip sleeve.",
+    "specs": {
+      "Blade Quality": "Grade 1+ Hand-Selected English Willow",
+      "Edge Profile": "41mm Monster Power Contour",
+      "Weight": "2lb 8.5oz (1145g)",
+      "Grains": "9 to 12 Pristine Straight Grains",
+      "Handle": "12-Piece Cane with Dual Carbon Rods"
+    },
+    "variants": [
+      "SH 2lb 7oz (Light Pick-up)",
+      "SH 2lb 8.5oz (Balanced Master)",
+      "SH 2lb 10oz (Monster Power)"
+    ],
+    "is_featured": 1,
+    "is_trending": 1,
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "category_id": 3,
+    "category_name": "Smart Sports Gadgets",
+    "name": "FIR Apex Telemetry GPS Sensor Pod",
+    "slug": "fir-apex-telemetry-gps-pod",
+    "tag": "SMART TECH",
+    "price": 189.50,
+    "original_price": 240.00,
+    "rating": 4.9,
+    "reviews_count": 115,
+    "image": "assets/images/hero_gadget.jpg",
+    "short_desc": "FIFA & ICC approved athletic tracker transmitting sprint velocity, G-force impact and heart telemetry.",
+    "description": "Unlock elite athletic intelligence. The FIR Apex Pod clips directly into your training vest, recording 1000Hz biometric telemetry: max sprint speed, high metabolic load distance, acceleration bursts, and player fatigue indicators.",
+    "specs": {
+      "Sensors": "9-Axis IMU + Multi-GNSS 10Hz GPS",
+      "Battery Life": "16 Hours Continuous Match Play",
+      "Connectivity": "Bluetooth 5.3 BLE + Real-time Cloud Sync",
+      "Water Resistance": "IP68 Military Submersible",
+      "Weight": "Only 28 Grams (Ultra Featherweight)"
+    },
+    "variants": [
+      "Solo Pod + Chest Vest (M)",
+      "Solo Pod + Chest Vest (L)",
+      "Pro Pod + Dual Vests & Dock"
+    ],
+    "is_featured": 1,
+    "is_trending": 1,
+    "stock": 35
+  },
+  {
+    "id": 4,
+    "category_id": 1,
+    "category_name": "Football Boots",
+    "name": "FIR Phantom Agility Cyber Stride Boot",
+    "slug": "fir-phantom-agility-cyber-boot",
+    "tag": "SPEED EDITION",
+    "price": 229.00,
+    "original_price": 269.00,
+    "rating": 4.8,
+    "reviews_count": 54,
+    "image": "assets/images/hero_boot.jpg",
+    "short_desc": "Asymmetric micro-lace system with sticky cyber grip zones for pinpoint passes and curling strikes.",
+    "description": "Engineered for tactical maestros. Features targeted high-friction silicone ribs along the instep for vicious curve and swerve on dead-ball deliveries.",
+    "specs": {
+      "Weight": "184 Grams",
+      "Upper": "CyberRib Textured Microfiber",
+      "Outsole": "Aerodynamic Agility Frame",
+      "Studs": "Hexagonal Multi-Directional Studs",
+      "Insole": "Shock-Absorbing Poron Cushioning"
+    },
+    "variants": [
+      "US 8.5 / EU 42",
+      "US 9.5 / EU 43",
+      "US 10.5 / EU 44.5",
+      "US 11.5 / EU 45.5"
+    ],
+    "is_featured": 1,
+    "is_trending": 0,
+    "stock": 18
+  },
+  {
+    "id": 5,
+    "category_id": 2,
+    "category_name": "Cricket Bats & Gear",
+    "name": "FIR Titanium Stance Smart Bat Sensor Cap",
+    "slug": "fir-stance-smart-bat-sensor",
+    "tag": "AI IOT GADGET",
+    "price": 139.99,
+    "original_price": 179.99,
+    "rating": 4.8,
+    "reviews_count": 77,
+    "image": "assets/images/hero_gadget.jpg",
+    "short_desc": "Mounts directly to bat handle; calculates bat speed at impact, backlift angle & 3D wagon wheels.",
+    "description": "Transforms any traditional cricket bat into an AI-powered smart bat. View your batting stroke trajectory in 3D, check bat speed at point of impact, and analyze timing against fast bowlers.",
+    "specs": {
+      "Mounting": "Universal Silicone Grip Lock Cap",
+      "Sensors": "High-Speed Dual Gyros + Accelerometer",
+      "Battery": "Up to 10 Hours Active Net Practice",
+      "App Compatibility": "iOS & Android FIR Coach Pro",
+      "Weight": "14 Grams (Zero Impact on Balance)"
+    },
+    "variants": [
+      "Single Sensor Cap",
+      "Duo Pack (Match & Practice)"
+    ],
+    "is_featured": 1,
+    "is_trending": 1,
+    "stock": 40
+  },
+  {
+    "id": 6,
+    "category_id": 3,
+    "category_name": "Smart Sports Gadgets",
+    "name": "FIR Cyber Match Pulse Official Smart Ball",
+    "slug": "fir-cyber-pulse-match-ball",
+    "tag": "SMART BALL",
+    "price": 159.00,
+    "original_price": 199.00,
+    "rating": 4.9,
+    "reviews_count": 39,
+    "image": "assets/images/hero_boot.jpg",
+    "short_desc": "Embedded wireless sensor measures shot speed (km/h), spin revolutions (RPM), and flight trajectory.",
+    "description": "The world’s most advanced training match ball. Built to official FIFA Quality Pro specifications with an embedded shock-isolated sensor cluster that syncs kick power and flight curves instantly to your smartphone.",
+    "specs": {
+      "Certification": "FIFA Quality Pro Match Standard",
+      "Data Tracked": "Shot Speed, Ball Spin (RPM), Curvature, Flight Arc",
+      "Charging": "Qi Inductive Wireless Base (Included)",
+      "Battery": "24 Hours Standby / 6 Hours Match Play",
+      "Construction": "32-Panel Thermal Bonded Textured PU"
+    },
+    "variants": [
+      "Size 5 (Official Match)",
+      "Size 4 (Youth Academy)"
+    ],
+    "is_featured": 1,
+    "is_trending": 0,
+    "stock": 22
+  },
+  {
+    "id": 7,
+    "category_id": 4,
+    "category_name": "Performance Gear",
+    "name": "FIR AeroCompress Pro Athletic Recovery Tights",
+    "slug": "fir-aerocompress-pro-recovery-tights",
+    "tag": "RECOVERY TECH",
+    "price": 89.00,
+    "original_price": 115.00,
+    "rating": 4.9,
+    "reviews_count": 58,
+    "image": "assets/images/hero_boot.jpg",
+    "short_desc": "Medical-grade 20-30 mmHg zoned gradient compression accelerating muscle lactic clearance.",
+    "description": "Engineered for high-intensity athletes. Accelerates blood flow and oxygenation, reduces post-match delayed onset muscle soreness (DOMS), and provides 360-degree joint stabilization.",
+    "specs": {
+      "Compression": "Graduated 20-30 mmHg",
+      "Fabric": "4-Way CyberStretch Spandex",
+      "Ventilation": "Laser-Perforated Behind Knees",
+      "Recovery Time": "Reduces DOMS by 38%"
+    },
+    "variants": [
+      "Small (S)",
+      "Medium (M)",
+      "Large (L)",
+      "XL Pro"
+    ],
+    "is_featured": 1,
+    "is_trending": 1,
+    "stock": 30
+  },
+  {
+    "id": 8,
+    "category_id": 4,
+    "category_name": "Performance Gear",
+    "name": "FIR HyperAgility Pro Speed Ladder & Cone Matrix",
+    "slug": "fir-hyperagility-pro-speed-ladder-matrix",
+    "tag": "SPEED DRILLS",
+    "price": 65.00,
+    "original_price": 85.00,
+    "rating": 4.8,
+    "reviews_count": 42,
+    "image": "assets/images/hero_gadget.jpg",
+    "short_desc": "6-meter tangle-free rigid rung agility ladder with 10 high-visibility flexible training markers.",
+    "description": "The fundamental training kit for pro footwork, quickness, and multi-directional acceleration. Built with shatter-resistant nylon rungs and all-weather turf anchors.",
+    "specs": {
+      "Length": "6.0 Meters (12 Rungs)",
+      "Markers": "10 Flexible EVA Cones",
+      "Carry Case": "Waterproof Cordura Duffle",
+      "Surface": "Grass / Turf / Hardwood"
+    },
+    "variants": [
+      "Pro 6m Kit",
+      "Elite 10m Dual Kit"
+    ],
+    "is_featured": 1,
+    "is_trending": 0,
+    "stock": 45
+  },
+  {
+    "id": 9,
+    "category_id": 2,
+    "category_name": "Cricket Bats & Gear",
+    "name": "FIR CarbonFlex Pro Test Match Batting Gloves",
+    "slug": "fir-carbonflex-pro-batting-gloves",
+    "tag": "PRO PROTECTION",
+    "price": 95.00,
+    "original_price": 120.00,
+    "rating": 4.9,
+    "reviews_count": 67,
+    "image": "assets/images/hero_bat.jpg",
+    "short_desc": "Shark-tooth high-density foam with carbon fiber shield inserts across lead fingers.",
+    "description": "Engineered to withstand 150 km/h bouncers. Features premium Pittards sheepskin leather palm for silky grip and airflow ventilation gussets.",
+    "specs": {
+      "Palm": "Premium Pittards Sheepskin",
+      "Protection": "Multi-Section High-Density Foam + Carbon Fiber",
+      "Thumb": "2-Piece Curved Armor",
+      "Wrist": "50mm Double-Sided Towel Band"
+    },
+    "variants": [
+      "Men's Right Hand",
+      "Men's Left Hand",
+      "Youth Right Hand"
+    ],
+    "is_featured": 1,
+    "is_trending": 1,
+    "stock": 28
+  }
+]
